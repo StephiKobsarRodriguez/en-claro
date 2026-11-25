@@ -1,0 +1,10 @@
+work/
+__pycache__/
+.env
+.env.*
+sources/raw/
+sources/pages/
+
+# Entregables generados por scripts/package_repo.py
+dist/repositorio.zip
+dist/source-files.json

@@ -1,0 +1,420 @@
+{
+  "reviewed": "2026-11-22",
+  "note": "Solo documentos publicados por la propia candidatura para las generales del 29 de noviembre de 2026. El extractor no inventa enlaces.",
+  "programs": [
+    {
+      "party": "ADELANTE ANDALUCÍA",
+      "url": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Un programa para frenar a las derechas"
+    },
+    {
+      "party": "BNG",
+      "url": "https://www.bng.gal/media/bnggaliza/files/2026/11/03/26_bng_xerais_documentos_programa_electoral.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa electoral 29N. Xerais 2026"
+    },
+    {
+      "party": "1.ºCAN-CCa",
+      "url": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf",
+      "kind": "pdf",
+      "status": "bases",
+      "title": "Defiende Canarias. Bases del programa de Coalición Canaria y Municipalistas Primero Canarias"
+    },
+    {
+      "party": "CCa-1.ºCAN",
+      "url": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf",
+      "kind": "pdf",
+      "status": "bases",
+      "title": "Defiende Canarias. Bases del programa de Coalición Canaria y Municipalistas Primero Canarias"
+    },
+    {
+      "party": "COMPROMIS-EUPV-PODEM-ERPV",
+      "url": "https://frontvalencia.org/programa-compromis-front-valencia.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa electoral 29N Compromís-Front Valencià"
+    },
+    {
+      "party": "CNV",
+      "url": "https://www.convergents.org/_files/ugd/d24b0b_2c84e86795954481a948f644038a7cb3.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa electoral. Eleccions Generals 2026"
+    },
+    {
+      "party": "D21",
+      "url": "https://mi.democracia21.es/docs/programa/programa-democracia21.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa electoral Democracia21"
+    },
+    {
+      "party": "EAJ-PNV",
+      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa Elecciones Generales 2026"
+    },
+    {
+      "party": "FE de las JONS",
+      "url": "https://falange.es/wp-content/uploads/2026/11/FEDELASJONS_ProgramaElectoral_29NGenerales2026.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa electoral Falange Española de las JONS"
+    },
+    {
+      "party": "FA",
+      "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa electoral Frente Amplio"
+    },
+    {
+      "party": "PACMA",
+      "url": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa electoral PACMA"
+    },
+    {
+      "party": "PARTIDO AUTÓNOMOS",
+      "url": "https://www.partidoautonomos.es/wp-content/uploads/2026/11/PARTIDO-AUTONOMOS-PROGRAMA-ELECCIONES-GENERALES-2026-29N.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa elecciones generales 2026"
+    },
+    {
+      "party": "PFAC",
+      "url": "https://www.feministasalcongreso.es/wp-content/uploads/2026/11/PROGRAMA_ELECTORAL.pdf",
+      "kind": "pdf",
+      "status": "avance",
+      "title": "Programa electoral Feministas al Congreso"
+    },
+    {
+      "party": "PH",
+      "url": "https://www.partidohumanista.es/Documentos/Programas/Programa%20Generales%202026.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa Generales 2026"
+    },
+    {
+      "party": "PP",
+      "url": "https://www.pp.es/wp-content/uploads/2026/11/PROGRAMA-ELECTORAL-PP-2026-RECONSTRUCCION-NACIONAL.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "La Reconstrucción Nacional"
+    },
+    {
+      "party": "MUNDO+JUSTO",
+      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2026/11/Castellano.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa Elecciones Generales 29N 2026"
+    },
+    {
+      "party": "PSOE",
+      "url": "https://lafuerzadelagente.es/programa/PROGRAMA_PSOE_29N26.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "La fuerza de seguir avanzando"
+    },
+    {
+      "party": "SALF",
+      "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Contrato electoral simplificado. Generales 2026"
+    },
+    {
+      "party": "SY",
+      "url": "https://soriaya.org/wp-content/uploads/2026/11/ProgramaGenerales_26.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa generales 2026"
+    },
+    {
+      "party": "TERUEL EXISTE",
+      "url": "https://teruelexiste.info/wp-content/uploads/2026/11/Programa_Teruel_Existe_Completo_29N.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa electoral Teruel Existe"
+    },
+    {
+      "party": "VOX",
+      "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa completo VOX 29N"
+    },
+    {
+      "party": "29",
+      "url": "https://www.alternativamalaguena.com/",
+      "kind": "html",
+      "status": "avance",
+      "title": "Alternativa Malagueña, propuesta para las generales del 29N"
+    },
+    {
+      "party": "3e",
+      "url": "https://3edad.org/por-que-surgimos/",
+      "kind": "html",
+      "status": "avance",
+      "title": "Tercera Edad en Acción: por qué surgimos"
+    },
+    {
+      "party": "AGENDA VALENCIANA",
+      "url": "https://www.agendavalenciana.org/programa.html",
+      "kind": "html",
+      "status": "completo",
+      "title": "Programa electoral Agenda Valenciana 29N"
+    },
+    {
+      "party": "ALHORA",
+      "url": "https://alhora.cat/politiques/",
+      "kind": "html",
+      "status": "completo",
+      "title": "Programa per a Catalunya. Alhora"
+    },
+    {
+      "party": "ARAMÉS-EU-MS",
+      "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa electoral Frente Amplio"
+    },
+    {
+      "party": "CHA-IU-MS-FRENTE AMPLIO",
+      "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa electoral Frente Amplio"
+    },
+    {
+      "party": "COMUNS-FRONT AMPLI",
+      "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa electoral Frente Amplio"
+    },
+    {
+      "party": "FRENTE AMPLIO - FRONTE AMPLA",
+      "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa electoral Frente Amplio"
+    },
+    {
+      "party": "FRENTE AMPLIO-FRONTE AMPLA",
+      "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa electoral Frente Amplio"
+    },
+    {
+      "party": "FRENTE AMPLIO-FRONTE ZABALA",
+      "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa electoral Frente Amplio"
+    },
+    {
+      "party": "D.R.G",
+      "url": "https://www.dragocanarias.com/wp-content/uploads/2026/11/Drago-Canarias-Programa-electoral-29N.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa electoral 29N. Drago Canarias"
+    },
+    {
+      "party": "EH BILDU",
+      "url": "https://estaticosgn-cdn.deia.eus/gn/public/content/file/original/2026/1118/10/programa-electoral-de-eh-bildu-para-el-29-n-66e3b7d.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa electoral de EH Bildu para el 29N"
+    },
+    {
+      "party": "ERC",
+      "url": "https://esquerrarepublicana.cat/documents/e2026-programa.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa electoral 2026. Esquerra Republicana"
+    },
+    {
+      "party": "ESCAÑOS EN BLANCO",
+      "url": "https://escanos.org/conocenos/programa-electoral-de-escanos-en-blanco/",
+      "kind": "html",
+      "status": "completo",
+      "title": "Programa electoral de Escaños en Blanco"
+    },
+    {
+      "party": "FO",
+      "url": "https://frenteobrero.es/documentos/programa-frente-obrero.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa Frente Obrero"
+    },
+    {
+      "party": "GBAI",
+      "url": "https://geroabai.eus/files/2026/11/bases-politicas-29n-1.pdf",
+      "kind": "pdf",
+      "status": "bases",
+      "title": "Bases políticas 29N. Geroa Bai"
+    },
+    {
+      "party": "IE",
+      "url": "https://iustitiaeuropa.es/img/bloques/documentos/descarga-aqui-tu-contrato-00030.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Contrato electoral de Iustitia Europa"
+    },
+    {
+      "party": "JxCat",
+      "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa electoral Junts 29N"
+    },
+    {
+      "party": "LIB",
+      "url": "https://liberacioncanaria.org/nuestras-propuestas/",
+      "kind": "html",
+      "status": "completo",
+      "title": "Nuestras propuestas. Liberación Canaria"
+    },
+    {
+      "party": "NEX",
+      "url": "https://www.nuevoext.es/descargas/Programa-Electoral-Generales-29N.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa electoral generales 29N. Nuevo Extremeñismo"
+    },
+    {
+      "party": "PODEMOS",
+      "url": "https://www.democrata.es/uploads/s1/35/51/60/4/29n-programa-podemos-paz-casa-y-trabajo.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "29N. Programa Podemos. Paz, casa y trabajo"
+    },
+    {
+      "party": "PAZ,CASA Y TRABAJO",
+      "url": "https://www.democrata.es/uploads/s1/35/51/60/4/29n-programa-podemos-paz-casa-y-trabajo.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "29N. Programa Podemos. Paz, casa y trabajo"
+    },
+    {
+      "party": "PSC",
+      "url": "https://lafuerzadelagente.es/programa/PROGRAMA_PSOE_29N26.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "La fuerza de seguir avanzando"
+    },
+    {
+      "party": "PSdeG-PSOE",
+      "url": "https://lafuerzadelagente.es/programa/PROGRAMA_PSOE_29N26.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "La fuerza de seguir avanzando"
+    },
+    {
+      "party": "PSIB-PSOE",
+      "url": "https://lafuerzadelagente.es/programa/PROGRAMA_PSOE_29N26.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "La fuerza de seguir avanzando"
+    },
+    {
+      "party": "PSN-PSOE",
+      "url": "https://lafuerzadelagente.es/programa/PROGRAMA_PSOE_29N26.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "La fuerza de seguir avanzando"
+    },
+    {
+      "party": "EH BILDU-ERC",
+      "url": "https://estaticosgn-cdn.deia.eus/gn/public/content/file/original/2026/1118/10/programa-electoral-de-eh-bildu-para-el-29-n-66e3b7d.pdf",
+      "also": "https://esquerrarepublicana.cat/documents/e2026-programa.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa de EH Bildu y programa de ERC"
+    },
+    {
+      "party": "ELAK/PCTE",
+      "url": "https://oposicionobrera.pcte.es/assets/docs/CAS-Programa-de-lucha-PCTE-d.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa de lucha del PCTE"
+    },
+    {
+      "party": "NC-BC, PODEMOS, IU, SUMAR",
+      "url": "https://www.democrata.es/uploads/s1/35/51/60/4/29n-programa-podemos-paz-casa-y-trabajo.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "29N. Programa Podemos. Paz, casa y trabajo"
+    },
+    {
+      "party": "P. ALANTRE",
+      "url": "https://www.alantre.org/programas/autonomico",
+      "kind": "html",
+      "status": "completo",
+      "title": "Programa autonómico. Elecciones del 15 de marzo de 2026"
+    },
+    {
+      "party": "PANCAL-URCI",
+      "url": "https://pancal-urci.es/wp-content/uploads/2025/02/PROGRAMA-PANCAL-URCi_PDF.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa PANCAL-URCi, publicado en 2025"
+    },
+    {
+      "party": "PCTE",
+      "url": "https://oposicionobrera.pcte.es/assets/docs/CAS-Programa-de-lucha-PCTE-d.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa de lucha del PCTE"
+    },
+    {
+      "party": "PCTC",
+      "url": "https://oposicionobrera.pcte.es/assets/docs/CAS-Programa-de-lucha-PCTE-d.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa de lucha del PCTE"
+    },
+    {
+      "party": "PCTE/ELAK",
+      "url": "https://oposicionobrera.pcte.es/assets/docs/CAS-Programa-de-lucha-PCTE-d.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa de lucha del PCTE"
+    },
+    {
+      "party": "PCTG",
+      "url": "https://oposicionobrera.pcte.es/assets/docs/CAS-Programa-de-lucha-PCTE-d.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa de lucha del PCTE"
+    },
+    {
+      "party": "PUEDE",
+      "url": "https://espana.vota.com/parties/unionist-state-of-spain/policies",
+      "kind": "html",
+      "status": "completo",
+      "title": "Propuestas publicadas del Partido Unionista del Estado de España"
+    },
+    {
+      "party": "UPN-PP",
+      "url": "https://www.pp.es/wp-content/uploads/2026/11/PROGRAMA-ELECTORAL-PP-2026-RECONSTRUCCION-NACIONAL.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "La Reconstrucción Nacional"
+    },
+    {
+      "party": "VLC",
+      "url": "https://valenciaunida.es/wp-content/uploads/Programa-2027.pdf",
+      "kind": "pdf",
+      "status": "completo",
+      "title": "Programa electoral 2027. Valencia Unida"
+    }
+  ]
+}

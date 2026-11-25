@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Código fuente · En claro</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #f3eee4; color: #241c16; font: 16px/1.6 system-ui, sans-serif; }
+    header { padding: 25px 32px; background: #faf7f1; border-bottom: 1px solid #d9cec0; display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap; }
+    h1 { margin: 0; font-size: 26px; letter-spacing: -.7px; }
+    header p { margin: 6px 0 0; color: #6e5e52; }
+    a { color: #5c4632; text-underline-offset: 4px; }
+    .download { display: inline-block; color: #faf7f1; background: #241c16; padding: 12px 18px; text-decoration: none; border-radius: 7px; }
+    .intro { padding: 22px 32px; max-width: 1100px; }
+    .intro p { margin: 0 0 10px; }
+    main { display: grid; grid-template-columns: 270px minmax(0, 1fr); border-top: 1px solid #d9cec0; }
+    aside { padding: 18px; background: #efe8dc; }
+    aside h2 { font-size: 14px; margin: 0 10px 12px; color: #6e5e52; }
+    #files button { display: block; width: 100%; padding: 11px 10px; border: 0; background: transparent; border-radius: 5px; color: #4e433a; text-align: left; font: 14px/1.5 ui-monospace, monospace; overflow-wrap: anywhere; cursor: pointer; }
+    #files button.active { background: #e4d9c8; color: #241c16; font-weight: 700; }
+    article { min-width: 0; padding: 24px; }
+    .toolbar { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+    article h2 { flex: 1; margin: 0; font: 600 16px ui-monospace, monospace; overflow-wrap: anywhere; }
+    #copy { padding: 10px 14px; border: 1px solid #d9cec0; border-radius: 5px; background: #faf7f1; font: inherit; font-size: 14px; cursor: pointer; }
+    #description { font-size: 14px; color: #6e5e52; }
+    pre { margin: 18px 0 0; padding: 22px; max-height: 75vh; overflow: auto; color: #f3eee4; background: #241c16; border-radius: 8px; font: 14px/1.7 ui-monospace, SFMono-Regular, Consolas, monospace; tab-size: 2; }
+    #status { min-height: 1.6em; font-size: 14px; color: #6e5e52; }
+    :focus-visible { outline: 3px solid #7a5a32; outline-offset: 3px; }
+    @media (max-width: 700px) { main { grid-template-columns: 1fr; } header, .intro { padding: 20px; } aside { max-height: 230px; overflow: auto; } article { padding: 18px; } pre { padding: 16px; } }
+  </style>
+</head>
+<body>
+  <header>
+    <div><h1>En claro · Código fuente</h1><p>HTML, CSS y JavaScript. Proyecto estático preparado para GitHub.</p></div>
+    <a class="download" href="repositorio.zip" download>Descargar repositorio ZIP</a>
+  </header>
+  <div class="intro">
+    <p><a href="index.html">Volver al comparador</a></p>
+    <p>Selecciona un archivo para leerlo o copiarlo. Para editar el proyecto, descarga el ZIP, descomprímelo y abre la carpeta <strong>en-claro</strong> en VS Code.</p>
+    <p>El README incluye instrucciones de arranque y subida a GitHub, arquitectura, decisiones de diseño y límites de la cobertura editorial.</p>
+  </div>
+  <main>
+    <aside><h2>ARCHIVOS DEL PROYECTO</h2><nav id="files" aria-label="Archivos de código"></nav></aside>
+    <article>
+      <div class="toolbar"><h2 id="filename">Cargando código…</h2><button id="copy" disabled>Copiar archivo</button></div>
+      <p id="description"></p><pre><code id="code"></code></pre><p id="status" role="status"></p>
+    </article>
+  </main>
+  <script src="codigo.js" defer></script>
+</body>
+</html>
