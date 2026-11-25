@@ -83,7 +83,7 @@ python scripts/extract_cards.py
 
 Puedes pasar uno o varios identificadores de candidatura para releer solo esos programas. Con `OPENAI_API_KEY`, el script pide al modelo título y síntesis en castellano y descarta la ficha si la cita no está en la página. Sin esa clave, la ficha muestra el fragmento literal. Actualiza la fecha de lectura. No incorpores un programa antiguo como si fuera el del 29N.
 
-El código del frontend no solicita información personal ni utiliza analítica. El enlace compartido contiene únicamente las candidaturas seleccionadas, el ministerio, la vista y la comunidad. Las fuentes tipográficas se solicitan a Google Fonts y tienen fuentes locales de reserva.
+El código del frontend no solicita información personal. Las visitas se cuentan con GoatCounter, sin cookies y sin identificar a quien entra. El enlace compartido contiene únicamente las candidaturas seleccionadas, el ministerio, la vista y la comunidad. Las fuentes tipográficas se solicitan a Google Fonts y tienen fuentes locales de reserva.
 
 ## Publicación
 
