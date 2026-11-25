@@ -8,6 +8,7 @@ const descriptions = {
   'scripts/check_data.py': 'Comprueba referencias, fuentes e indicadores del catálogo con Python estándar.',
   'scripts/package_repo.py': 'Genera este visor de archivos y el ZIP portable del repositorio.',
   '.github/workflows/checks.yml': 'Comprobaciones automáticas de JavaScript y datos al subir cambios a GitHub.',
+  '.github/workflows/pages.yml': 'Publica la carpeta dist en GitHub Pages.',
   '.gitignore': 'Exclusiones de archivos locales y paquetes generados.',
   'dist/codigo.html': 'Página del visor del código.',
   'dist/codigo.js': 'Lógica del visor del código.'

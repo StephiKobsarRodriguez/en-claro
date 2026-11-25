@@ -6,6 +6,7 @@ from zipfile import ZipFile, ZIP_DEFLATED
 ROOT = Path(__file__).resolve().parents[1]
 FILES = [
     'README.md', '.gitignore', '.github/workflows/checks.yml',
+    '.github/workflows/pages.yml',
     'dist/index.html', 'dist/app.js', 'dist/style.css', 'dist/data.json',
     'dist/codigo.html', 'dist/codigo.js',
     'scripts/check_data.py', 'scripts/package_repo.py',
